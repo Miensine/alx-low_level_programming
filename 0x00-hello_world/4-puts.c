@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 /* First C file */
 int main(void)
