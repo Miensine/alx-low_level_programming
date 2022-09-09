@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * First C file
+ * main - print string
  *
  * Description: Using main function
- * this program prints "Programming is like building a multilingual puzzle
- * Start
+ * this program prints 'Programming is like building a multilingual puzzle
+ * Return: 0
  */
 int main(void)
 {
